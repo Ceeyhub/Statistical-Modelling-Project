@@ -1,0 +1,9 @@
+empty_slots,extra,free_bikes,id,latitude,longitude,name,timestamp
+0,"{'number': 1, 'reviews': 7, 'score': 3.7, 'status': 'offline', 'uid': '1310'}",0,9be01b509184baee960fcffa4f1425d3,45.15866370764634,10.783718973016335,Stazione FF.SS.,2023-08-02T02:02:52.781000Z
+0,"{'number': 2, 'reviews': 1, 'score': 1.0, 'status': 'offline', 'uid': '1311'}",0,2eb2a00e80e5d6fee19b932294a08927,45.14750544645031,10.795176265606642,Porta Cerese,2023-08-02T02:02:52.782000Z
+0,"{'number': 3, 'reviews': 1, 'score': 1.0, 'status': 'offline', 'uid': '1312'}",0,f2703a28d2f9f3a0e4078867966d4536,45.162055713921475,10.811605481588344,Campo Canoa,2023-08-02T02:02:52.782000Z
+0,"{'number': 4, 'reviews': 1, 'score': 1.0, 'status': 'offline', 'uid': '1313'}",0,2fd7039e15452a7a09b5ddca816a6375,45.157558256082055,10.794851150331851,Castiglioni,2023-08-02T02:02:52.782000Z
+8,"{'number': 5, 'reviews': 1, 'score': 1.0, 'status': 'offline', 'uid': '1314'}",0,a97d2eb0b413d91a627e8e661356471b,45.15356718540835,10.797891219643361,Anconetta,2023-08-02T02:02:52.782000Z
+0,"{'number': 6, 'reviews': 2, 'score': 2.9, 'status': 'offline', 'uid': '1315'}",0,388ea79ccc1898766848156901c20c1b,45.157522443543556,10.790304102238451,Umberto I,2023-08-02T02:02:52.782000Z
+0,"{'number': 7, 'reviews': 3, 'score': 2.0, 'status': 'offline', 'uid': '1316'}",0,5cd1352f5e895893f577ceba80c0bd41,45.162354679001666,10.798728486530308,Castello S. Giorgio,2023-08-02T02:02:52.782000Z
+0,"{'number': 8, 'reviews': 1, 'score': 1.0, 'status': 'offline', 'uid': '1499'}",0,43b4d9fcbb4e5b825350b3e43e9941af,45.150071995246186,10.786766586122098,Palazzo Te,2023-08-02T02:02:52.782000Z
