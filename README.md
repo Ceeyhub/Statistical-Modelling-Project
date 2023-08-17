@@ -8,7 +8,11 @@
 #### Parsed through the returned data and created dataframes
 #### Merge 2 dataframes - city bike and yelp
 #### EDA process for data visualization 
+![image](https://github.com/Ceeyhub/Statistical-Modelling-Project/assets/134983985/577cea36-ed1b-4cc7-aa61-e1572c0fb895)
+
 #### check for correlation between the two dataframes
+![image](https://github.com/Ceeyhub/Statistical-Modelling-Project/assets/134983985/3b9068ea-1b0c-4a6b-8256-7578acb26f73)
+
 #### put all result into SQLites and try to validate the data
 #### Build a regression model and interpret result
 
