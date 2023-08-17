@@ -15,6 +15,8 @@
 
 #### put all result into SQLites and try to validate the data
 #### Build a regression model and interpret result
+![image](https://github.com/Ceeyhub/Statistical-Modelling-Project/assets/134983985/32088b64-1f4e-4e8b-8379-0ddc85c9a30e)
+
 
 ## Results
 #### Yelp provided more information than foursquare - it had data on prices, telephone number to call
