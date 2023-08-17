@@ -1,7 +1,7 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-### to determine if there is a relationship between he number of city bikes available and a POI (restaurants) in Mantova 
+### to determine if there is a relationship between the number of city bikes available and a POI (restaurants) in Toronto 
 ## Process
 #### Send requests to city bikes to get information on bike stations in Toronto
 #### Send requests to Yelp and foursquare API for information on points of interests - restaurants
